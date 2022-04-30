@@ -1,2 +1,8 @@
 # MSA
-Multivariate Statistical Analysis: cluster analysis and principal component analysis
+
+Курс «Введение в многомерный статистический анализ» (НИУ ВШЭ, 2021-2022 учебный год, ОП «Политология»)
+
+Два блока курса:
+
+* Кластерный анализ (иерархический и k-means).
+* Метод главных компонент.
